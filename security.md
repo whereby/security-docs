@@ -24,7 +24,7 @@ Whereby is hosted on world-class globally-distributed IT infrastructure. Most in
 
 Whereby uses only TLS 1.2 with a limited set of ciphers to protect data in transit. Servers have disk encryption enabled and backup data is stored in an encrypted offsite manner.
 
-For small rooms, End2End Encryption ensures that nobody except the call participants, can access the the calls. For big  rooms, encrypted media in transit can only happen in server memory, ensuring that
+For small rooms, End2End Encryption is in effect, ensuring that nobody except the call participants, can access the video calls. For big  rooms, encrypted media in transit is decrypted only in the server memory, ensuring that the exposure of the decrypted stream is as minimal as possible.
 
 ## Data Storage and Protection
 
@@ -34,7 +34,13 @@ Whereby does not store your video and audio data. Period. Recordings are only st
 ## Frequently Asked Questions on Security
 
 #### How do I report a security vulnerability ? 
-We welcome input from the community when it comes to the security posture of our platform. Make sure to check our Vulnerability Disclosure Policy to understand how to best engage us for such reports. We also maintain a security.txt entry highlighting our commitment to have a standardized and transparent approach to Vulnerability Disclosure. Oh, there’s also a PGP key available should you want to encrypt the report. 
+We welcome input from the community when it comes to the security posture of our platform. Make sure to check our [Vulnerability Disclosure Policy](https://whereby.com/information/security/vdp) to understand how to best engage us for such reports. We also maintain a [security.txt](https://whereby.com/security.txt) entry highlighting our commitment to have a standardized and transparent approach to [Vulnerability Disclosure](https://whereby.com/information/security/vdp). There’s also a [PGP key available](https://whereby.com/information/security/pgp-key.txt) should you want to encrypt the report. 
+
+#### How does Whereby handle security vulnerabilities within the service?
+Whereby performs regular penetration tests by contracting a specialized 3rd party. The penetration tests are conducted based on the OWASP methodology. The executive summary of the penetration test report is available for current or potential customers upon request and after signing an NDA.
+
+#### Where is data stored ?
+Whereby relies mostly on AWS for its core infrastructure, using the Dublin, Ireland availability zone, ensuring data remains within the EU and in world-renowed data centers.
 
 #### What will Whereby do in the event a breach ? 
 In the unlikely scenario of a data breach, Whereby will take action to rightfully and properly inform all relevant parties. As an obligation to our customers, we commit to report breaches to the affected parties as soon as there is a reasonable belief that a breach has occured. As a legislative and ethical requirement, we commit to report personal data breaches to the supervisory authority within.
