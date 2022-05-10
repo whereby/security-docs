@@ -34,7 +34,7 @@ Whereby does not store your video and audio data. Period. Recordings are only st
 ## Frequently Asked Questions on Security
 
 #### How do I report a security vulnerability ? 
-We welcome input from the community when it comes to the security posture of our platform. Make sure to check our [Vulnerability Disclosure Policy](https://whereby.com/information/security/vdp) to understand how to best engage us for such reports. We also maintain a [security.txt](https://whereby.com/security.txt) entry highlighting our commitment to have a standardized and transparent approach to [Vulnerability Disclosure](https://whereby.com/information/security/vdp). There’s also a [PGP key available](https://whereby.com/information/security/pgp-key.txt) should you want to encrypt the report. 
+We welcome input from the community when it comes to the security posture of our platform. Make sure to check our [Vulnerability Disclosure Policy](https://whereby.com/information/security/vdp) to understand how to best engage us for such reports. We also maintain a [security.txt](https://whereby.com/security.txt) entry highlighting our commitment to have a standardized and transparent approach to [Vulnerability Disclosure](https://whereby.com/information/security/vdp). There’s also a [PGP key available](https://whereby.com/pgp-key.txt) should you want to encrypt the report. 
 
 #### How does Whereby handle security vulnerabilities within the service?
 Whereby performs regular penetration tests by contracting a specialized 3rd party. The penetration tests are conducted based on the OWASP methodology. The executive summary of the penetration test report is available for current or potential customers upon request and after signing an NDA. For vulnerabilities reported according to 
@@ -42,7 +42,7 @@ our [Vulnerability Disclosure Policy](https://whereby.com/information/security/v
 
 #### How does Whereby inform customers of security issues or changes ? 
 Any kind of issues that affect Whereby's operational stance will be published in the [Whereby Status Page](https://wherebystatus.com/). 
-Any upcoming changes to security measures, stance with regards to major vulnerabilities in the industry or any kind of security relevant details will be published in the Security advisory section of the [Support portal](https://whereby.helpscoutdocs.com/article/546-faq).
+Any upcoming changes to security measures, stance with regards to major vulnerabilities in the industry or any kind of security relevant details will be published in the Security advisory section of the [Support portal](https://whereby.helpscoutdocs.com/article/729-whereby-security-advisories).
 
 #### Where is data stored ?
 Whereby relies mostly on AWS for its core infrastructure, using the Dublin, Ireland availability zone, ensuring data remains within the EU and in world-renowed data centers.
