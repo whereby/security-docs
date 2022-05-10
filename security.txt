@@ -1,8 +1,8 @@
 Contact: mailto:security@whereby.com
 Expires: 2023-04-03T14:00:00.000Z
-Encryption: https://whereby.com/information/security/pgp-key.txt
-Acknowledgments: https://whereby.com/information/security/bug-bounty/hall-of-fame
+Encryption: https://whereby.com/pgp-key.txt
+Acknowledgments: https://whereby.com/information/security/vdp/hof
 Preferred-Languages: en, es
 Canonical: https://whereby.com/security.txt
-Policy: https://whereby.com/information/security/bug-bounty/
+Policy: https://whereby.com/information/security/vdp/
 Hiring: https://jobs.lever.co/whereby
