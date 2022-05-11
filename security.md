@@ -1,8 +1,8 @@
-```yaml
-title: Security at Whereby
-description: Security at Whereby
-slug: /information/security
-```
+---
+slug: "/information/security"
+date: "2022-05-04"
+title: "Security at Whereby"
+---
 
 # Security at Whereby
 

@@ -1,8 +1,9 @@
-```yaml
-title: Vulnerability Disclosure Hall of Fame
-description: Vulnerability Disclosure Hall of Fame
-slug: /information/security/vdp/hof
-```
+---
+slug: "/information/security/vdp/hof"
+date: "2022-05-04"
+title: "Vulnerability Disclosure Hall of Fame"
+---
+
 
 # Vulnerability Disclosure Hall of Fame
 

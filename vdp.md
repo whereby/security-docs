@@ -1,8 +1,9 @@
-```yaml
-title: Vulnerability Disclosure Policy
-description: Vulnerability Disclosure Policy
-slug: /information/security/vdp
-```
+---
+slug: "/information/security/vdp"
+date: "2022-05-04"
+title: "Vulnerability Disclosure Policy"
+---
+
 
 # Vulnerability Disclosure Policy
 
