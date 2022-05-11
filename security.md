@@ -48,4 +48,4 @@ Any upcoming changes to security measures, stance with regards to major vulnerab
 Whereby relies mostly on AWS for its core infrastructure, using the Dublin, Ireland availability zone, ensuring data remains within the EU and in world-renowed data centers.
 
 #### What will Whereby do in the event a breach ? 
-In the unlikely scenario of a data breach, Whereby will take action to rightfully and properly inform all relevant parties. As an obligation to our customers, we commit to report breaches to the affected parties as soon as there is a reasonable belief that a breach has occured. As a legislative and ethical requirement, we commit to report personal data breaches to the supervisory authority within.
+In the unlikely scenario of a data breach, Whereby will take action to rightfully and properly inform all relevant parties. As an obligation to our customers, we commit to report breaches to the affected parties as soon as there is a reasonable belief that a breach has occured. As a legislative and ethical requirement, we commit to report personal data breaches to the personal data supervisory authority within Norway.
